@@ -1,8 +1,8 @@
 ﻿#!/usr/bin/env bash
 
 # 设置各变量
-WSPATH=${WSPATH:-'nice1'}
-UUID=${UUID:-'f9b2ec24-7796-4ea3-8b2f-2b007b7dbe44'}
+WSPATH=${WSPATH:-'mice1'}
+UUID=${UUID:-'4957d6c4-6966-4452-bd59-02ea78dfbffb'}
 NEZHA_SERVER=${NEZHA_SERVER}
 NEZHA_PORT=${NEZHA_PORT}
 NEZHA_KEY=${NEZHA_KEY}
